@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 018a28743b9fd7048bae5b029d6e5a46
+  - enabled: 1
+    path: Assets/Scenes/Demo.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/InRoomScene.unity
+    guid: 717d22308d4ef7b4ca001825901dd708
+  - enabled: 1
+    path: Assets/Scenes/ChooseCharacterMenu.unity
+    guid: 158cfd16849e1284ebd7f266ab97ca75
+  - enabled: 1
+    path: Assets/Scenes/ChooseMapMenu.unity
+    guid: 3cbc5442c96316b4891b1b0055bd0b25
+  - enabled: 1
+    path: Assets/Scenes/ChooseRoomMenu.unity
+    guid: 55d516cb86a39bb438bb3e1aec2af6b2
+  - enabled: 1
+    path: Assets/Scenes/GameEndScene.unity
+    guid: c56916d7828227648a5ed55a4e6a143c
+  - enabled: 1
+    path: Assets/Scenes/Lose.unity
+    guid: 13546356f0485864a9ad0ae8e1b484aa
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: 88481d9ea0d706b49a639df55a8ac450
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: b4fcfaf1657d1fe419e089fd2c48839a,
+      type: 2}
